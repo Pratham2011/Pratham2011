@@ -7,7 +7,7 @@
 ## 🚀 Projects & Tools
 - 🔍 **Mobile App Pentesting Toolkit** – Genymotion + Burp + ADB Setup
 - 📜 **Automated VAPT Report Generator** (Python-based)
-- 🔐 **IAM Role-Based Access Simulator** (with RBAC demo)
+- 🔐 **Quantum-Proofing traditional Cryptographic techniques
 
 ## ✍️ Latest Blogs
 - [Understanding Insecure Data Storage in Android](#)  
